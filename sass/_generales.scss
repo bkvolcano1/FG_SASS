@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nav{
+    display: flex;
+    justify-content: end;
+}
+nav ul li{
+    font-family: 'Cairo', sans-serif;
+    list-style-type: none;
+
+}
+
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    flex-direction: column;
+    display: flex;
+}
+
+header{
+    font-size: large;
+    display: grid;
+    justify-content: center;
+    h2{
+        font-family: 'Roboto Slab', serif;
+        color: snow;
+
+    }
+     
+}
+.ad{
+    color: snow;
+}
+.contenido{
+    color: snow;
+}
+
+footer{
+    padding: 3em;
+    background-color:black;
+    margin-bottom: 0;
+    margin-top: 1.5em;
+}

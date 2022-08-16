@@ -1,0 +1,54 @@
+.envoltura{
+    background-color: rgb(233, 236, 240);
+    margin-bottom: 1.5em;
+    display: grid;
+    grid-template-areas: 
+    "header"
+    "nav"
+    "contenido"
+    "ad"
+    "galeria"
+    "footer";
+    gap: 20px;
+}
+
+.envolturagaleria{
+    background-color: slategray;
+    margin-bottom: 1.5em;
+    display: grid;
+    grid-template-areas: 
+    "header"
+    "nav";
+    gap: 20px;
+
+}
+.envolturacontacto{
+    background-color: slategray;
+    margin-bottom: 1.5em;
+    display: grid;
+    grid-template-areas: 
+    "header"
+    "nav";
+    gap: 20px;
+
+}
+.envolturahistoria{
+    background-color: slategray;
+    margin-bottom: 1.5em;
+    display: grid;
+    grid-template-areas: 
+    "header"
+    "nav";
+    gap: 20px;
+
+}
+.envolturaservicios{
+    background-color: slategray;
+    margin-bottom: 1.5em;
+    display: grid;
+    grid-template-areas: 
+    "header"
+    "nav";
+    gap: 20px;
+
+}

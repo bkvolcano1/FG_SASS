@@ -1,0 +1,29 @@
+.galeria{
+    background-color: rgb(167, 201, 230);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 15px;
+    justify-items: center;
+}
+.galeriafotos{
+    background-color: rgb(167, 201, 230);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 15px;
+    justify-items: center;
+}
+img{
+    border: 8px solid black;
+    width: 250px;
+    height: 200px;
+    margin-top: 15px;
+}
+iframe{
+    border: 8px solid black;
+    width: 250px;
+    height: 200px;
+    margin-top: 15px;
+
+}
